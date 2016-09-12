@@ -1,5 +1,14 @@
 package org.suresh.sort.algorithms;
 
+/**
+ * 
+ * @author Suresh K
+ * 
+ * O(n^2) - 
+ * - Not useful for large data set
+ */
+
+
 public class BubbleSort {
 	
 	public static void main(String[] args) {
